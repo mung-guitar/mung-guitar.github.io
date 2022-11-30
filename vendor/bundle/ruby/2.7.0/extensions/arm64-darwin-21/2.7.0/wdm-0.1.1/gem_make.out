@@ -1,0 +1,11 @@
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+/Users/emart/.rbenv/versions/2.7.7/bin/ruby -I /Users/emart/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20221130-51029-14km5a3.rb extconf.rb
+
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR=" clean
+
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR="
+
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/wdm-0.1.1/ext/wdm
+make "DESTDIR=" install

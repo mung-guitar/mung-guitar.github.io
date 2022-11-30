@@ -1,16 +1,16 @@
-current directory: /Users/emart/Work/jekyii/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/Users/emart/.rbenv/versions/2.7.7/bin/ruby -I /Users/emart/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20221130-41963-s0nhwc.rb extconf.rb
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/emart/.rbenv/versions/2.7.7/bin/ruby -I /Users/emart/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20221130-51029-1fwfaj5.rb extconf.rb
 creating Makefile
 
-current directory: /Users/emart/Work/jekyii/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" clean
 
-current directory: /Users/emart/Work/jekyii/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR="
 compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.bundle
 
-current directory: /Users/emart/Work/jekyii/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /Users/emart/Work/mung-guitar.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20221130-41963-1gwcqt5
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20221130-51029-18roqe2
